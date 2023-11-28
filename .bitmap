@@ -14,7 +14,7 @@
         "scope": "bits-and-pieces.article-submission",
         "version": "0.0.6",
         "mainFile": "index.ts",
-        "rootDir": "article-submission/entities/article-submission-scheme"
+        "rootDir": "entities/article-submission-scheme"
     },
     "envs/aws-lambda-env": {
         "name": "envs/aws-lambda-env",
@@ -28,7 +28,7 @@
         "scope": "bits-and-pieces.article-submission",
         "version": "0.0.15",
         "mainFile": "index.ts",
-        "rootDir": "article-submission/handlers/form-submission-handler"
+        "rootDir": "handlers/form-submission-handler"
     },
     "$schema-version": "17.0.0"
 }
