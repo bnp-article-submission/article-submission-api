@@ -9,6 +9,13 @@
  */
 
 {
+    "entities/article-submission-scheme": {
+        "name": "entities/article-submission-scheme",
+        "scope": "bits-and-pieces.article-submission",
+        "version": "0.0.6",
+        "mainFile": "index.ts",
+        "rootDir": "article-submission/entities/article-submission-scheme"
+    },
     "envs/aws-lambda-env": {
         "name": "envs/aws-lambda-env",
         "scope": "bits-and-pieces.dev",
